@@ -1,0 +1,2 @@
+# trendstechies
+personal website
